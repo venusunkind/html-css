@@ -1,0 +1,7 @@
+.imgop{
+    object-position: center;
+    border-radius: 100px;
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+}
